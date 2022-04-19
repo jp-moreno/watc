@@ -13,4 +13,4 @@ WAT is Web Assembly in text format
 
 ## Final Presentation and Demo
 
-[![Presentation](https://img.youtube.com/vi/emxFYMwsNbs/0.jpg)](https://youtu.be/emxFYMwsNbs "Presentation")
+[![Presentation](http://img.youtube.com/vi/emxFYMwsNbs/0.jpg)](http://www.youtube.com/watch?v=emxFYMwsNbs "Presentation")
