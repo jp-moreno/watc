@@ -1,0 +1,22 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "A simple node server",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "node index.js --input=fact.wasm"
+  },
+  "author": "",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.6",
+    "node-fetch": "^3.2.3",
+    "nodemon": "^2.0.15",
+    "prompts": "^2.4.2",
+    "wat2wasm": "3.0.0"
+  }
+}
