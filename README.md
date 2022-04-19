@@ -1,6 +1,6 @@
 # WATC
 
-Watc is a minic to wat compiler created for the class CSC488.
+Watc is a minic to wat compiler created for the class CSC488 made by J.P. Moreno, Daniel Chu and Jia Hong Le.
 
 
 ## Source Language: MiniC
